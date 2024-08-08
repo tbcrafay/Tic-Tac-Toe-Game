@@ -1,2 +1,8 @@
 # Tic-Tac-Toe-Game
-# Tic-Tac-Toe A Mini Project. Built using HTML, CSS and JS.   here's how it works and looks like:  https://github.com/user-attachments/assets/fb34de18-8e2f-4259-98ee-35e8ac1d1111
+
+A Mini Project. Built using HTML, CSS, and JS.   
+
+* here's how it works and looks like:
+
+  https://github.com/user-attachments/assets/75782851-2226-4f50-bf1c-a8e161f47e6f
+
